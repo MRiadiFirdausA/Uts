@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+.kotak {
+    width: 500px;
+    background-color: blueviolet;
+    margin: 40px auto;
+}
+
+.kotak h1{
+    text-align: center;
+}
+
+table{
+    text-align: center;
+}
+
